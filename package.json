@@ -34,7 +34,7 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {
-    "@neutrinojs/react-components": "^8.3.0",
+    "@neutrinojs/react-components": "^9.5.0",
     "envify": "^4.1.0",
     "neutrino": "^8.3.0",
     "rollup-plugin-commonjs": "^10.1.0",
